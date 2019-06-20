@@ -1,5 +1,7 @@
-# Plan for current week (2019/05/27 - 2019/06/03)
+# 2019/05/27 - 2019/06/02
 
-* Make Queries configurable in the [smi-metrics](https://github.com/deislabs/smi-metrics) repo.
+* Made Queries configurable in the [smi-metrics](https://github.com/deislabs/smi-metrics) repo.
 
-* Support Istio for Metrics.
+* Also made tests read queries from a config file.
+
+* Started reading about Istio, mixer and its corresponding prometheus metrics.
