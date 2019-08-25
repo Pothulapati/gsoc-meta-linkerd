@@ -1,6 +1,6 @@
-# Google Summer of Code Internship
+# Google Summer of Code 2019 Internship with Linkerd
 
-My GSoC work was aimed to contribute to the SMI-Metrics repository i.e to add support for Istio and also work on other Issues. As the SMI-Metrics project was pretty new, to keep up my work and not get struck on one thing, I also contributed to the Linkerd project i.e fixing issues, adding features, etc.
+My GSoC work was aimed to contribute to the SMI-Metrics repository i.e to add support for Istio and also work on other Issues. As the SMI-Metrics project was pretty new, to keep up my work and not get struck on one thing, I also contributed to the Linkerd project i.e fixing issues, adding more features, etc.
 
 ## General Info
 
@@ -98,6 +98,13 @@ Total Pull Requests Reviewed: 3
 3. [linkerd/linkerd2#3032](https://github.com/linkerd/linkerd2/pull/3032) - Add release notes for stable-2.4.0
 
 **Repository: rfc**
+
 Total Pull Requests Created: 1
 
 1. [linkerd/rfc#3](https://github.com/linkerd/rfc/pull/3) - Obsevarbility through GraphQL
+
+## Conclusion
+
+I had a great time working with the Linkerd team and especially Thomas (my mentor). I got the oppurtunity to work on latest cutting edge technologies like Kubernetes, etc.
+
+More information on my Google Summer of Code experience can be found [here](https://www.tarunpothulapati.com/posts/my-gsoc-journey-with-linkerd/)
