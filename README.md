@@ -63,7 +63,7 @@ Total Pull Requests Reviewed: 2
 
 ## Contributions to Linkerd
 
-I also kept contributing to Linkerd i.e solving small issues and adding small scale features so that I don't get struck on a single thing.
+Throughout the GSoC period, I also kept my contributions up to Linkerd solving issues ranging from small bug fixes to small scale features.
 
 ### Blog Posts
 
