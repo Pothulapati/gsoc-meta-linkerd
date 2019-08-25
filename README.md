@@ -4,11 +4,11 @@ My GSoC work was aimed to contribute to the SMI-Metrics repository i.e to add su
 
 ## General Info
 
-name: Tarun Pothulapati
-github: @pothulapati
-email: tarunpothulapati@outlook.com
-blog: www.tarunpothulapati.com
-mentor: Thomas Rampelberg
++ Name: Tarun Pothulapati
++ Github: [pothulapati](www.github.com/pothulapati)
++ Email: tarunpothulapati@outlook.com
++ Blog: www.tarunpothulapati.com
++ Mentor: Thomas Rampelberg
 
 ## Contributions to SMI-Metrics
 
@@ -16,12 +16,13 @@ Intially the SMI-Metrics, had a very hard dependency on prometheus for metrics a
 
 ### Blog Posts
 
-- [SMI-Metrics with Istio](https://www.tarunpothulapati.com/posts/my-gsoc-journey-with-linkerd/)
++ [SMI-Metrics with Istio](https://www.tarunpothulapati.com/posts/my-gsoc-journey-with-linkerd/)
 
+*The above blog post consists of a demo of SMI-Metrics with Istio support that I worked on.*
 
 ### Design Docs
 
-- [Istio Support](https://docs.google.com/document/d/1mOlmwjLjoR1dus8G68ChYxJ_TJLBBvIdbYdGacFbeNM/edit?usp=sharing)
++ [Istio Support](https://docs.google.com/document/d/1mOlmwjLjoR1dus8G68ChYxJ_TJLBBvIdbYdGacFbeNM/edit?usp=sharing)
 
 ### Code Contributions
 
